@@ -1,0 +1,33 @@
+{
+  "name": "adhd", "type": "X",   
+  "children": [
+    {
+      "name": "Attentive", "type": "A",   
+      "children": [
+        { "name": "details",    "size": 5000,   "type": "a",   "q": "Failure to pay attention to details or making careless mistakes" },
+        { "name": "flighty",    "size": 4000,   "type": "a",   "q": "Unable to keep attention on tasks" },
+        { "name": "wut",        "size": 3000,   "type": "a",   "q": "Difficulty listenting when spoken to directly" }
+      ]
+    },
+
+    {
+      "name": "Hyper", "type": "H",   
+      "children": [
+        { "name": "fidgetty",   "size": 10000,   "type": "h",   "q": "" },
+        { "name": "bouncy",     "size": 31000,   "type": "h",   "q": "" },
+        { "name": "restless",   "size": 13000,   "type": "h",   "q": "" }
+      ]
+    },
+
+    {
+      "name": "Impulsive", "type": "I",   
+      "children": [
+        { "name": "fidgetty",   "size": 3000,   "type": "i",   "q": "" },
+        { "name": "bouncy",     "size": 3000,   "type": "i",   "q": "" },
+        { "name": "restless",   "size": 3000,   "type": "i",   "q": "" }
+      ]
+    }
+    
+
+  ]
+}
